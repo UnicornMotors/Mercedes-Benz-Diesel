@@ -1,5 +1,7 @@
 sch: https://www.youtube.com/results?search_query=OM617
 
+wiki: https://en.wikipedia.org/wiki/Mercedes-Benz_OM617_engine
+
 [OM617 Performance Series: Injection Pump & Fuel Filter Modification, Idle Adjust, ALDA, & Fuel Lines](https://youtu.be/dvpX6mqkvUU)
 
 # Top.Favorite!
