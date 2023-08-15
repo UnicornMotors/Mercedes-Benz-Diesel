@@ -12,3 +12,4 @@ by: https://en.wikipedia.org/wiki/Force_Motors
 
 cite:
 - https://web.archive.org/web/20170625130709/http://motoring.world/car-news/force-motors-opens-new-plant-mercedes/
+- https://web.archive.org/web/20161201015949/http://www.forcemotors.com/vehicle/index/force_gurkha
