@@ -9,3 +9,6 @@ wiki: https://en.wikipedia.org/wiki/Mercedes-Benz_OM616_engine#The_OM616_in_Indi
 
 by: https://en.wikipedia.org/wiki/Force_Motors
 - https://www.cartrade.com/news/force-gurkha-with-mercedes-om616-engine-to-be-launched-today-119894.html
+
+cite:
+- https://web.archive.org/web/20170625130709/http://motoring.world/car-news/force-motors-opens-new-plant-mercedes/
