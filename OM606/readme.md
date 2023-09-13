@@ -1,4 +1,7 @@
 # Top.Favorite!
+- [Mercedes OM606: The Diesel 2JZ](https://youtu.be/XkSE91CEMDY)
+
+# Index.
 [W124 OM606 Superturbodiesel](https://m.youtube.com/watch?v=f5yEI-SDcUo)
 
 [680BHP FROM A SMALL MERCEDES DIESEL ENGINE, MERCEDES OM606 BASICS](https://youtu.be/31gM-Q1JSks)
